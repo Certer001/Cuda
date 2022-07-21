@@ -1,0 +1,14 @@
+body{
+	margin: 0 -15px;
+}
+header{
+	height: 596px;
+	background-image: url(../img/Bg.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+}
+header div.menu img{
+	display: block;
+	padding-left:210px ;
+	padding-top:57px ;
+}
