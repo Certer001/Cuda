@@ -31,3 +31,31 @@ header div.menu ul li a:hover{
     background: #643a79;
     border-radius: 7px;
 }
+header div.poragraph{
+	margin-top: 147px;
+}
+header div.poragraph p{
+    text-align: center;
+    font-size: 42px;
+    color: #fff;
+
+}
+header div.poragraph div.otp p.wone{
+    margin-bottom: 0px;
+}
+header div.poragraph div.otp p.two{
+	margin-top: 0px;
+	margin-bottom: 90px;
+}
+header div.poragraph div.otp{
+	text-align: center;
+	max-width: px;
+}
+header div.poragraph div.otp a{
+    text-decoration: none;
+    background: #eb7d4b;
+    padding: 27px 80px;
+    color: #fff;
+    margin: 0px auto;
+    border-radius: 7px;
+}
